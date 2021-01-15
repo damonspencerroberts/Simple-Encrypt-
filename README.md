@@ -15,7 +15,7 @@ Here is an example of the program being run:
 Argument 1 = 150121
 Argument 2 = 123498765
 
-![Encrypt GIF](./encrypt.gif)
+![Encrypt GIF](./gifs/encrypt.gif)
 
 
 ### Decryption
@@ -33,7 +33,7 @@ Here is an example of the program being run:
 Argument 1 = xcxeidefeeny
 Argument 2 = rugefghmlkjipsu
 
-![Decrypt GIF](./decrypt.gif)
+![Decrypt GIF](./gifs/decrypt.gif)
 
 
 👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
