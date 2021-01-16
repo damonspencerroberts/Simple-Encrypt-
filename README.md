@@ -15,8 +15,8 @@ position of each of the element integers in the new array, and finally is conclu
 - The final array is all joined together through interpolation. 
 
 Here is an example of the program being run:
-Argument 1 = 150121
-Argument 2 = 123498765
+Argument 1 = 160121
+Argument 2 = 345876
 
 ![Encrypt GIF](./gifs/encrypt.gif)
 
@@ -35,8 +35,8 @@ Argument 2 = 123498765
 Encryption method above.
 
 Here is an example of the program being run:
-Argument 1 = xcxeidefeeny
-Argument 2 = rugefghmlkjipsu
+Argument 1 = @p!)j,)&)v!%
+Argument 2 = !lz$%il#ji!y
 
 ![Decrypt GIF](./gifs/decrypt.gif)
 
