@@ -35,5 +35,11 @@ Argument 2 = rugefghmlkjipsu
 
 ![Decrypt GIF](./gifs/decrypt.gif)
 
+I also created 1000 simulations with rspec of randomly generated numbers between 1 and 1,000,000. It encrypts that original value, then decrypts the new value and checks if the decrypted new value is equal to the original.
+
+Here is the rspec simulations:
+
+![Rspec Simulation](./gifs/rspec_simul.gif)
+
 
 👨‍💻 👨‍💻 👨‍💻 👨‍💻 👨‍💻
