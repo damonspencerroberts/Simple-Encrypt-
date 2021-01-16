@@ -14,7 +14,6 @@ def decrypt(code = nil)
 end
 
 # Comment this out to run the rspec tests cleanly
-
 puts 'Please enter the number you would like to decrypt!'
 puts '-------------------------------------------------'
 print 'Code to Decrypt: '

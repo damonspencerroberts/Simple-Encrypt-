@@ -19,7 +19,6 @@ def r_n(array)
 end
 
 # Comment this out to run the rspec tests cleanly
-
 puts 'Please enter the number you would like to encrypt!'
 puts '-------------------------------------------------'
 print 'Code to encrypt: '
