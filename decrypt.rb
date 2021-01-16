@@ -4,6 +4,7 @@ def decrypt(code = nil)
   return nil if code.nil?
 
   nums = []
+  
   testing = code[3...-3]
   testing.split('').each { |e| nums << ('a'..'z').to_a.index(e.to_s) - 3 }
   nums.join.rjust(testing.size, '0')
